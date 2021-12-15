@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aayush-Gurung
-- 👀 I’m interested in web developement and contributing in open source.
+- 👀 I’m interested in web developement and solving problems.
 - 🌱 I’m currently learning data structures and algorithms in c++ and front end developement.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tfoot200@gmail.com
